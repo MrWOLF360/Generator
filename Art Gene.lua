@@ -1,7 +1,7 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("Made By SDWOLF", "DarkTheme")
 
-   main
+--- main
 local main = Window:NewTab("main")
 local mainSection = main:NewSection("Art")
 mainSection:NewLabel("WARNING! Wait 5 Minutes Before Sumbiting")
