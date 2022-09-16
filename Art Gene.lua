@@ -14,3 +14,4 @@ mainSection:NewDropdown("DropdownText", "DropdownInf", {"Qr code", "Spider Man",
         UI[i].BackgroundColor3  = Color3.fromRGB(v.R, v.G, v.B)
     end
 end)
+end)
